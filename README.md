@@ -1,8 +1,4 @@
-### 열정 열정 열정! 💪
-#### 안녕하세요 대전에서 웹 개발자로 일하고 있는 이중석입니다.😄
-
-#### 객체지향, TDD, 협업 등 상생하고 발전할 수 있는 개발문화를 사랑합니다.❤️
-
+### 열정 열정 열정~!
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=devmiddlestone)](https://solved.ac/devmiddlestone)
 
